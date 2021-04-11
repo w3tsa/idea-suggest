@@ -15,5 +15,8 @@
       "**/.*",
       "**/node_modules/**"
     ]
-  }
+  },
+  "dependencies": {
+  "date-and-time": ">=0.14.2"
+}
 }
