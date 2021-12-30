@@ -4,5 +4,5 @@ This app could be modified in order to get idea/tutorial/feature etc requests fr
 One Caveat since it is a firebase app, and uses firebase funtion it is slower for the first time.
 
 Authentication:
-user: eamil1@email.com
+user: eamil@email.com
 pass: test123456
