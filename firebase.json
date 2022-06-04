@@ -15,5 +15,9 @@
       "**/.*",
       "**/node_modules/**"
     ]
-  }
+  },
+  "dependencies": {
+  "date-and-time": ">=0.14.2",
+  "@firebase/util": ">=0.3.4"
+}
 }
